@@ -1,5 +1,5 @@
 # Codewords == code
-Collection of critical readings and theory for Codewords studio
+Collection of critical readings, code and other resources for the Codewords studio
 
 ## Processing
 In this folder you can find all the sketches we will use in Processing tutorials
