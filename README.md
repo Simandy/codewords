@@ -1,7 +1,7 @@
 # Codewords == code
 Collection of critical readings, code and other resources for the Codewords studio
 
-## <a href="#">Processing</a>
+## <a href="processing">Processing</a>
 In this folder you can find all the sketches we will use in Processing tutorials
 
 ## P5js
