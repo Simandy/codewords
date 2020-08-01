@@ -12,3 +12,6 @@ This is the collection of readings that we will be using during the course.
 
 ## <a href="tools">Reading in digital space</a>
 Over the course we will be exploring reading in a number of digital spaces, so here are some resources and instructions for each of those.
+
+## <a href="Class list">Class repo list</a>
+So here are your repos. Remember to always leave the credit/comments if you use someone else's code!
