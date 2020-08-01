@@ -2,7 +2,7 @@
 ### Karen ann Donnachie | https://github.com/karenanndonnachie/C0DE-W0RD
 ### Andy Simionato | https://github.com/Simandy/codewords
 ## Student Gihub Repositories 2020
-### Taj Edward Joyner Healy | https://github.com/TajHealy
+### Taj Edward Joyner Healy | https://github.com/TajHealy/CodeWords
 ### Fergus Jack Arundel | https://github.com/fergarundel/CODE-WORDS
 ### Finn Miles Arundel | https://github.com/FinnArundel/codewordsRMIT
 ### Ruby Brown | https://github.com/rubybrown101?tab=repositories
