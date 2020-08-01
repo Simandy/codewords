@@ -5,7 +5,7 @@
 ### Taj Edward Joyner Healy | https://github.com/TajHealy/CodeWords
 ### Fergus Jack Arundel | https://github.com/fergarundel/CODE-WORDS
 ### Finn Miles Arundel | https://github.com/FinnArundel/codewordsRMIT
-### Ruby Brown | https://github.com/rubybrown101?tab=repositories
+### Ruby Brown | https://github.com/rubybrown101/codewordsstudio
 ### Bridie O'Toole | https://github.com/bridieotoole/codewords
 ### Yutang Mu | https://github.com/YutangMoo/MakeCode
 ### Marie (Roby) Manlongat | https://github.com/robymanlongat/codewords
