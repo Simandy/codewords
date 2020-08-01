@@ -13,7 +13,7 @@
 ### Jamie Tung | https://github.com/Jamtt
 ### Hamish Payne | https://github.com/HamishPayne/CODE-WORDS
 ### Napasorn | https://github.com/napasornc/c0dew0rd
-### Natasha Nathania | https://github.com/natnathania/CODE-WORD
+### Natasha Nathania | https://github.com/natnathania/
 ### Taj Edward Joyner Healy | https://github.com/fergarundel/CODE-WORDS
 ### Win | https://github.com/WWsiyang/CODEWORD
 ### Taj Edward Joyner Healy | https://github.com/TajHealy/CodeWords
