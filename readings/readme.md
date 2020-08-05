@@ -1,10 +1,10 @@
-# Links to research
+# E-Literature, Generative and Parametric text, and X
 This is where we will keep some of the readings and other reference materials for Codewords.
-Note that if you are looking for the course readings, they are available at our custom web-app here~~~>
+Note that if you are looking for the course readings, they are available at our custom web-app here
 http://digbeyond.com/readme/phplist.php?course=Code-Words
 
-Collected works of e-Lit, generative and parametric text, and X
-E-Lit collection #3
+
+## E-Lit collection #3
 https://collection.eliterature.org/3/
 *** Javascript works here: https://collection.eliterature.org/3/keyword.html#javascript
 
