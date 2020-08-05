@@ -1,15 +1,14 @@
-# Readings
-This is where we will keep some of the readings for Codewords.
-All of the course readings are available at our custom web-app here~~~>
-
+# Links to research
+This is where we will keep some of the readings and other reference materials for Codewords.
+Note that if you are looking for the course readings, they are available at our custom web-app here~~~>
 http://digbeyond.com/readme/phplist.php?course=Code-Words
 
-Collected works of e-Lit, generative and parametric text, and X~~~>
+Collected works of e-Lit, generative and parametric text, and X
 E-Lit collection #3
 https://collection.eliterature.org/3/
 *** Javascript works here: https://collection.eliterature.org/3/keyword.html#javascript
 
-****Work of generative fiction 
+## Work of generative fiction 
 Evolution, JOHANNES HELDEN AND HÅKAN JONSON
 http://www.textevolution.net/
 
@@ -51,7 +50,7 @@ https://collection.eliterature.org/3/works/scholars-contemplate-the-irish-beer/s
 
 
 
-*********OPENPROCESSING.ORG SKETCHES*************
+## OPENPROCESSING.ORG SKETCHES
 Black Lives Matter, remixed by Vamoss
 https://www.openprocessing.org/sketch/913474
 
