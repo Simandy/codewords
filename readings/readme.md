@@ -23,20 +23,24 @@ Apps from Poemm, by Jason Edward Lewis & Bruno Nadeau
 http://www.poemm.net/
 https://apps.apple.com/app/rattlesnakes/id684327074?ls=1
 
-JOHN CAYLEY WORKS:
+## JOHN CAYLEY WORKS:
 Epigraphic Clock
 http://programmatology.shadoof.net/?clocks
+
 WindSound
 http://programmatology.shadoof.net/?wsqt
+
 Monoclonal microphone
 http://programmatology.shadoof.net/?monoclonal
 http://programmatology.shadoof.net/movies/MonoclonalTheMovie.mp4
+
 SuFlSi:Surface Float Sink
 http://programmatology.shadoof.net/ritajs/suflosijs/index.html
+
 Threshold
 http://programmatology.shadoof.net/?p=works/quartz/quartz.html
 
-A collection of Bots:
+## A collection of Bots:
 https://collection.eliterature.org/3/collection-bots.html
 
 [eg. the maker of the Colbert Report] Real Human Praise, ROB DUBBIN —made a twitter feed with positive Rotten Tomatoes reviews applied to Fox news staff.[suspended]
