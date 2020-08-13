@@ -10,7 +10,7 @@
 ### Yutang Mu | https://github.com/YutangMoo/MakeCode
 ### Marie (Roby) Manlongat | https://github.com/robymanlongat
 ### Tayla Kristen Rogic | https://github.com/taylarogic/codeWords
-### Jamie Tung | https://github.com/Jamtt
+### Jamie Tung | https://github.com/Jamtt/Codewords
 ### Hamish Payne | https://github.com/HamishPayne/CODE-WORDS
 ### Napasorn | https://github.com/napasornc/c0dew0rd
 ### Natasha Nathania | https://github.com/natnathania/
