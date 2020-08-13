@@ -1,4 +1,7 @@
 # Code Words
+
+## Hi everyone, please make a pull request to edit this document if your name and repo is not here...
+
 ### Karen ann Donnachie | https://github.com/karenanndonnachie/C0DE-W0RD
 ### Andy Simionato | https://github.com/Simandy/codewords
 ## Student Gihub Repositories 2020
