@@ -5,7 +5,7 @@
 function preload() {
   inconsolata = loadFont('data/inconsolata.otf');
   DIN = loadFont('data/DIN.otf');
-  coldera=loadFont('data/coldera.otf');
+  coldera=loadFont('data/Coldera.otf');
 }
 var spin=0;
 var letterSize=24;
