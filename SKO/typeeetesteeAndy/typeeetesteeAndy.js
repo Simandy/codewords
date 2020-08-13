@@ -12,6 +12,7 @@ textAlign(CENTER);
 
 
 function draw() {
+  fill(0);
   textSize(32);
   text('hello Karen!',300,300);
   textSize(8);
