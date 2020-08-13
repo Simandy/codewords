@@ -13,5 +13,11 @@ This is the collection of readings that we will be using during the course.
 ## <a href="tools">Reading in digital space</a>
 Over the course we will be exploring reading in a number of digital spaces, so here are some resources and instructions for each of those.
 
+## Some help RE:Github
+:bust_in_silhouette: [Making an account](https://github.com/)<br/>
+:computer: [Setting up your Github](https://docs.github.com/en/github/getting-started-with-github) <br/>
+:man_dancing: Editing pages & styling with [Github Markup language](https://guides.github.com/features/mastering-markdown/)<br/>
+<br/>
+
 ## <a href="codeWords2020repos.md">Class repo list</a>
 So here are your repos. Remember to always leave the credit/comments if you use someone else's code!
