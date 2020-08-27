@@ -7,8 +7,10 @@ use this method =
 `<img src="plate2.jpg_UTC1598195554.jpg">`
 
 
-this is an image stored in another folder ~~ <img src="../Week-06/plate9.jpg_UTC1598195554.jpg">
-use this method =
+this is an image stored in another folder ~~ 
+<img src="../Week-06/plate9.jpg_UTC1598195554.jpg">
+
+use this method (hint: add ../ ) =
 `<img src="../Week-06/plate9.jpg_UTC1598195554.jpg">`
 
 we made this little sketch here
