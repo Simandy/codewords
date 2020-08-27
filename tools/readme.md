@@ -8,7 +8,7 @@ Pseudocode is an informal high-level description of a computer program or algori
 It's a word version of a flow chart or decision tree
 https://blog.usejournal.com/how-to-write-pseudocode-a-beginners-guide-29956242698
 
-## Why is Pseudocde?
+## Why is Pseudocode?
 * Quite often you will need to discuss the logic and process of your code your pseudocode is the simplest form of this.
 * You can keep it next to you while you code, it helps you keep on track and can be very comforting.
 
@@ -49,7 +49,8 @@ and this is our creative coding process in a nutshell... written in Pseudocode!
      upload to Github
   ELSE 
      schedule more time to work on code
-  END IF ```
+  END IF 
+```
 
 ## POETRY IN PSEUDOCODE
 [Christmas Morning in Pseudocode](https://mentaleffort.wordpress.com/2016/12/30/christmas-routine-a-pseudocode-poem/)
