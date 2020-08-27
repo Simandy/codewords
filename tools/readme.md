@@ -14,14 +14,16 @@ https://blog.usejournal.com/how-to-write-pseudocode-a-beginners-guide-2995624269
 
 ## How is Pseudocode?
 Your pseudocode can be subjective and non-standard:
-```IF you are happy
+```
+IF you are happy
    THEN smile
 ENDIF
 ```
 
 and this is our creative coding process in a nutshell... written in Pseudocode!
 
-```WHILE idea
+```
+WHILE idea
   WHILE not pseudocode
     sketch/prototype
     write notes
