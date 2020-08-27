@@ -9,7 +9,7 @@ use this method =
 
 this is an image stored in another folder ~~ <img src="../Week-06/plate9.jpg_UTC1598195554.jpg">
 use this method =
-`<img src="../Week-06/plate9.jpg_UTC1598195554.jpg">'
+`<img src="../Week-06/plate9.jpg_UTC1598195554.jpg">`
 
 we made this little sketch here
 https://simandy.github.io/codewords/Week-01/alphabet_O/
