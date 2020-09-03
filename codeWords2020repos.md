@@ -26,7 +26,7 @@
 ### Ray | https://github.com/Raymondvonz/CodeWords
 ### Lauren | https://github.com/renpapers/codeword
 ### Celia Mance | https://github.com/celiamance/codewords
-### Jackie Liu | https://github.com/jackieldesign/CODEWORDS
+### Jackie Liu | https://github.com/jackieliiu/CODEWORDS
 ### Un ian | https://github.com/unianlai/codeword
 ### Amy Ledger | https://github.com/astlcreations/ohheybro
 ### Faye | https://github.com/Faye12/CodeWord
