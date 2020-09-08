@@ -4,6 +4,9 @@ Collection of critical readings, code and other resources for the Codewords stud
 ## <a href="processing">Processing (P5js mode)</a>
 In this folder you can find all the sketches we will use in Processing tutorials.
 
+## <a href="HTML_CSS_Javascript">HTML, CSS, Javascript</a>
+In this folder you will find some great links, portfolios and sites to explore.
+
 ## <a href="matterjs">Matter.js</a>
 Here is where we can keep all the demos for this useful physics engine library. Please do not start in this folder until you have completed the Processing with P5js lessons.
 
