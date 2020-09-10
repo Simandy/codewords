@@ -1,7 +1,7 @@
-# Processing
+# Processing & P5js & P5.play
 This is where we will keep all our sketches from the tutorials
 
-# P5js is Processing for Web & some P5js helper codes
+# P5js is Processing for Web : P5js helper codes
 ### Tutorial transition from Processing to P5js https://github.com/processing/p5.js/wiki/Processing-transition
 
 ## Mouse Events
@@ -64,3 +64,7 @@ etc. Here is a list of the mouse related functions in p5js:
   }
 }
 </pre>
+
+## P5.play :  a library for p5.js for animation, gaming and using sprites
+Paolo Pedercini's p5.play Library: http://molleindustria.github.io/p5.play/
+Allison Parrish explains it all : https://creative-coding.decontextualize.com/making-games-with-p5-play/
