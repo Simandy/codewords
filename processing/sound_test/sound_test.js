@@ -1,11 +1,12 @@
 var song; // here we give name to our song variable
 var analyzer;
-//function preload (){
-//  song = loadSound ('data/beat.mp3');  
-//}
 // preload is used for larger files usually 
+function preload (){
+  song = loadSound ('data/beat.mp3');  
+}
+
 function setup() {
-  song = loadSound ('data/beat.mp3'); // here we link our song to our variable
+  //song = loadSound ('data/beat.mp3'); // here we link our song to our variable
   createCanvas (windowWidth, windowHeight); // create full window canvas
   background (0); // background of canvas
   fill (0,255,0); // starting colour of our objects
