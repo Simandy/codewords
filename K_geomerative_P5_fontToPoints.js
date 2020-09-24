@@ -9,7 +9,6 @@ var bounds, word, size;
 function preload() {
   font = loadFont('data/HelveticaNowDisplay.otf');
 }
-
 function setup() {
   createCanvas(windowWidth, windowHeight);
   word = 'CodeWords';
@@ -19,13 +18,11 @@ function setup() {
       sampleFactor: 0.75,
       simplifyThreshold: 0
     });
-
   bounds = font.textBounds(word, 0, 0, size);
-   cursor(CROSS);
+   cursor(CROSS); //changes the cursor
    fill(255, 127);
    noStroke();
 }
-
 function draw() {
   background(0);  
   stroke(51);
@@ -38,14 +35,10 @@ function draw() {
   fill(255, transparency);
   //from P5js Text-to-point example
   var jiggle = map(centerDist, 0, width, 1, 300);
-
-  translate((width - abs(bounds.w)) / 2, 
-            (height + abs(bounds.h)) / 2);
-  
+  translate((width - abs(bounds.w)) / 2, (height + abs(bounds.h)) / 2);
 //   FOR DEBUGGING ONLY 
 //   stroke(255, 0, 0);
 //   rect(bounds.x, bounds.y, bounds.w, bounds.h);
-  
 //   console.log("x: " + bounds.x 
 //               + ", y: " + bounds.y
 //               + ", w: " + bounds.w
@@ -56,6 +49,4 @@ function draw() {
     stroke(255);
     line(p.x + jiggle * randomGaussian(), p.y + jiggle * randomGaussian(), p.x, p.y );
   }
-
-  //noLoop();
 }
