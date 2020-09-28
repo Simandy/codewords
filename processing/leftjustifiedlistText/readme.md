@@ -1,4 +1,4 @@
-# Example of text written (and spaced) letter-by-letter with textWidth()
-## Uses p5js [textWidth()](https://p5js.org/reference/#/p5/textWidth) and a slider.
+# Example of text appearing word-by-word over time
+## Uses p5js [frameCount](https://p5js.org/reference/#/p5/frameCount) and sentence.split()
 See it in action here: https://simandy.github.io/codewords/processing/leftjustifiedlistText/
 
