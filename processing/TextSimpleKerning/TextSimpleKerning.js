@@ -6,11 +6,14 @@ by introducing a frameCount check before the text() line (29 in this original)
 uses p5js textWidth() 
 */
 
-var f, kerning, x, slider;
+var f, kerning, x, slider, font;
 var message = [];
+function preload() {
+  font = loadFont('data/HelveticaNowDisplay.otf');   // this file must exist
+}
 function setup() {
   createCanvas(windowWidth, windowHeight);
-  textFont("Helvetica",20,true);
+  textFont(font,20,true);
   kerning=1.6;
   message='To Each character it\'s own space.';
   x=20;
