@@ -1,7 +1,8 @@
 /*
 A simple sketch about Letterspace
 by k.donnachie for CodeWords, 2020
-Can be also used for writing text letter by letter 
+Can be also be mapped to mouse position or scroll... or... (rather than the slider)
+Can also be used for writing text letter by letter, 
 by introducing a frameCount check before the text() line (29 in this original)
 uses p5js textWidth() 
 */
