@@ -1,6 +1,6 @@
 # Processing & P5js & P5.play
 This is where we will keep all our sketches from the tutorials
-# [Some p5js ketches 'in action'(click the images to see it work)](examples.md)
+# [Some p5js sketches 'in action'(click the images to see it work)](examples.md)
 
 # P5js is Processing for Web : P5js helper codes
 ### Tutorial transition from Processing to P5js https://github.com/processing/p5.js/wiki/Processing-transition
