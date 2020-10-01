@@ -13,5 +13,5 @@ In&nbsp;action&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Description | [P5 js Librar
 <a href="https://simandy.github.io/codewords"><img src="../previewImages/HairyCodeWords.JPG" width="120" height="110"> | p5js textToPoints() function | [textToPoints()](https://p5js.org/reference/#/p5.Font/textToPoints) | Uses loaded font geometry to create points | https://simandy.github.io/codewords
 <a href="https://simandy.github.io/codewords/processing/TextSimpleKerning/"><img src="../previewImages/letterspaceSlider.JPG" width="120" height="110"> | textWidth() & slider | [P5js Slider](https://p5js.org/reference/#/p5/createSlider) | Uses a slider to visualise letter spacing | https://github.com/simandy/codewords/processing/TextSimpleKerning/
 <a href="https://simandy.github.io/codewords/processing/TextToPoints_Para_appearOverTime"><img src="../previewImages/paraWordPoint.JPG" width="120" height="110"> | textToPoints() & sentence.split(' ') | https://p5js.org/reference/#/p5.Font/textToPoints | Can break down and 'set' type within canvas contraints as paragraph, words, letters or points | https://github.com/simandy/codewords/processing/TextToPoints_Para_appearOverTime
- wigglyRandomLetters
+
   
