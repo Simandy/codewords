@@ -4,7 +4,7 @@ Collection of critical readings, code and other resources for the Codewords stud
 ## <a href="processing">Processing (P5js mode)</a>
 In this folder you can find all the sketches we will use in Processing tutorials.
 
-## <a href="Case_studies">Case studies and portfolios</a>
+## <a href="Casestudies">Case studies and portfolios</a>
 In this folder you will find some great links, portfolios and sites to explore.
 
 ## <a href="matterjs">Matter.js</a>
