@@ -1,3 +1,4 @@
+//MultiCanvas test by k.donnachie for codeWords 2020
 let pg;
 function setup() {
   createCanvas(windowWidth, windowHeight);
@@ -24,5 +25,5 @@ function draw() {
   pgright.ellipse(mouseX-width/2, mouseY, 50, 50);
   image(pgleft, 0, 0,width/2,height);
   image(pgright, width/2, 0, width/2, height);
-  text('Slave to the Algorithm', 50, 0,  width, height/2);
+  text('code==words', 50, 0,  width, height/2);
 }
