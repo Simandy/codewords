@@ -105,7 +105,7 @@ class Artist{
   }
   display() {
     this.ahref.position(this.x, this.y);
-    if (this.name == 'Grid View' | this.name == 'About codeWords' | this.name == 'House of Leaves'){this.ahref.style('color', 'black');}
+    if (this.name == 'Grid View' | this.name == 'About codeWords' | this.name == 'House of Leaves'){this.ahref.style('color', 'yellow');}
     else {
     this.ahref.style('color', 'white');}
     //this.ahref.mousePressed(goLink);
