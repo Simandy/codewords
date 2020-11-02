@@ -1,0 +1,17 @@
+{
+"companyName": "Donnachie, Simionato and Sons",
+"productName": "Boiler/Blender",
+"productVersion": "0.1",
+"dataUrl": "blenderWeb.data.unityweb",
+"asmCodeUrl": "blenderWeb.asm.code.unityweb",
+"asmMemoryUrl": "blenderWeb.asm.memory.unityweb",
+"asmFrameworkUrl": "blenderWeb.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#000000",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.8f1"
+}
